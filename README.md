@@ -31,10 +31,10 @@ Put these in the `images` folder. Names must match **exactly**, including small 
 | `image3.jpeg` | Inside the clinic → Reception, and the Contact section |
 | `picture1.avif` | Shown in place of the 3D tooth when there's no internet |
 | `pat1` – `pat6` | Patient stories photos |
-| `gal1` – `gal8` | Smile Gallery (any mix of clinic, smile and team photos) |
+| `p1.png` and `Screenshot 2026-10-28 214722.png`, `…214742`, `…214759`, `…214816`, `…214822`, `…214830`, `…214839`, `…214849` | Smile Gallery (9 photos) |
 | `vid1` – `vid4` | Clinic videos in the brown "Real smiles" section |
 
-**Endings:** `doc2`, `doc_ria`, `sreeshma_kids`, `pat1`–`pat6` and `gal1`–`gal8` work as `.jpg`, `.jpeg` or `.png`; `pat1`–`pat6` and `gal1`–`gal8` also as `.webp` or `.avif`. The videos work as `.mp4`, `.webm` or `.mov`, in either `images/` or `videos/`. Use **.mp4** for videos, because Chrome often can't play iPhone `.mov` files.
+**Endings:** `doc2`, `doc_ria`, `sreeshma_kids`, `pat1`–`pat6` work as `.jpg`, `.jpeg` or `.png`; `pat1`–`pat6` also as `.webp` or `.avif`. Gallery photos use their exact file names. The videos work as `.mp4`, `.webm` or `.mov`, in either `images/` or `videos/`. Use **.mp4** for videos, because Chrome often can't play iPhone `.mov` files.
 
 To see file endings in Windows: File Explorer → **View** → **Show** → **File name extensions**.
 
@@ -59,7 +59,7 @@ Don't double-click `index.html` to open it, and don't open a copy from Downloads
 | About Us | About S Dental Care | Text, stats (5K+, 6+, 98%) and the **3D tooth**: drag left to open it, drag right to close it |
 | Patient Stories | Patient stories | 6 story cards that slide by themselves (pat1–pat6) |
 | — | Inside the clinic | 3 clinic photos |
-| Gallery | Smile Gallery | 8 photos (gal1–gal8) in a staggered layout; empty slots show the file name to save |
+| Gallery | Smile Gallery | 9 photos in a staggered layout; a missing file shows a "Photo missing" card with its name |
 | — | Real smiles | Instagram and Facebook buttons, 4 clinic videos (vid1–vid4) |
 | Contact | Contact + map | Phone, email, Instagram, Facebook, address, Google Map |
 
@@ -81,7 +81,7 @@ In VS Code, press **Ctrl+F**, search for the text shown, change it, then save.
 
 **Replacing a photo:** the easiest way is to give the new photo the same file name as the old one, and put it in `images/`.
 
-**More gallery photos:** search for `gal8`, copy that whole `<figure>…</figure>` block, paste it below, and change `gal8` to `gal9` and the caption text. Gallery captions are the text inside `<figcaption>`.
+**More gallery photos:** search for `214849`, copy that whole `<figure>…</figure>` block, paste it below, and change the file name to your new photo's name. In file names, write each space as `%20` (for example `My%20photo.png`). To remove a photo, delete its `<figure>…</figure>` block.
 
 **Photo viewer:** tap any photo (doctor, treatments, clinic, stories, gallery, contact) to see it full-screen. Use ← → or swipe to browse, and Esc or ✕ to close.
 
