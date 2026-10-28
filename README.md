@@ -14,3 +14,16 @@ Home · Services · Doctor · About Us (3D tooth) · Patient Stories · Gallery 
 
 ## Contact
 Phone / WhatsApp: +91 63041 26855 · Email: sdental332@gmail.com · Instagram: @s_dental_care
+ ## Screenshots
+
+![Home — Care for your smile](images/p1.png)
+
+| Treatments | Doctor |
+|---|---|
+| ![Treatments](images/Screenshot%202026-10-28%20214722.png) | ![Doctor profile](images/Screenshot%202026-10-28%20214742.png) |
+| **About + 3D tooth** | **Patient stories** |
+| ![About S Dental Care with the 3D tooth](images/Screenshot%202026-10-28%20214759.png) | ![Patient stories](images/Screenshot%202026-10-28%20214816.png) |
+| **Inside the clinic** | **Real smiles + videos** |
+| ![Inside the clinic](images/Screenshot%202026-10-28%20214822.png) | ![Real smiles and clinic videos](images/Screenshot%202026-10-28%20214830.png) |
+| **Contact** | **Map + footer** |
+| ![Contact](images/Screenshot%202026-10-28%20214839.png) | ![Google Map and footer](images/Screenshot%202026-10-28%20214849.png) |
