@@ -1,4 +1,4 @@
-﻿# S Dental Care — Website
+﻿## S Dental Care — Website
 
 One-page website for S Dental Care and Dr. Sreeshma Sunder (Orthodontist · Invisalign Provider), Moosapet X Roads, Hyderabad.
 
@@ -14,15 +14,12 @@ Home · Services · Doctor · About Us (3D tooth) · Patient Stories · Gallery 
 
 ## Contact
 Phone / WhatsApp: +91 63041 26855 · Email: sdental332@gmail.com · Instagram: @s_dental_care
- ## Screenshots
- @'
+
 # S Dental Care — Website
 
 One-page website for **S Dental Care** and **Dr. Sreeshma Sunder** (Orthodontist · Invisalign Provider), Moosapet X Roads, Hyderabad.
 
 **Live site:** https://sgayye-6612.github.io/s-dental-care-website/
-
-## Screenshots
 
 ![Home — Care for your smile](images/p1.png)
 
